@@ -1,0 +1,6 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea
+!code/weights/jpeg_ddn_densenet161/.gitkeep
+!code/weights/jpeg_ddn_hrnet_w64/.gitkeep
+!code/weights/jpeg_ddn_resnet152/.gitkeep
+!code/weights/jpeg_ddn_wide_resnet101/.gitkeep
